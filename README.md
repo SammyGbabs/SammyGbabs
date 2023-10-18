@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+A Highly motivated and skilled professional with a strong interest in Machine Learning within the field of Artificial Intelligence. Proficient in HTML, CSS, Regular Expressions (Ruby), and shell scripting, with intermediate skills in Python. Experienced in graphics design. Adept at applying machine learning algorithms and concepts to solve complex problems. Strong problem-solving and analytical skills combined with a creative mindset. Committed to continuous learning and staying updated with the latest advancements in the field. I am seeking a challenging role where I can leverage my diverse skill set to contribute to innovative projects in Machine Learning and related fields. Passionate about uniting Africa. Believes in inclusive education, eradicating discrimination, and empowering youth for a harmonious future. Envisioning a continent where unity and collaboration foster progress and prosperity.
 <!--
 **SammyGbabs/SammyGbabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
