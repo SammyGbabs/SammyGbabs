@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Babalola! You can call me SammyG</h1>
-<h3 align="center">Machine Learning and Artificial Intelligence Enthusaist | Nigerian | Christian | Researcher</h3>
+<h3 align="center">AI/ML enthusiast and researcher from Nigeria who loves turning data into solutions. When I’m not experimenting with models, you’ll find me tinkering with web dev projects, exploring the world of IoT, or still debating whether to get more serious with mobile dev. Passionate about bridging academia and real-world impact, I’m always building, learning, and sharing cool ideas. 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammygbabs&label=Profile%20views&color=0e75b6&style=flat" alt="sammygbabs" /> </p>
 
