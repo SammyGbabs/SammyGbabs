@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Babalola! You can call me SammyG</h1>
-<h3 align="center">🤖 **AI/ML Researcher** | 🇳🇬 **Nigerian Tech Enthusiast** | 🚀 **Building the Future**</h3>
+<h3 align="center">🤖 <strong>AI/ML Researcher</strong> | 🇳🇬 <strong>Nigerian Tech Enthusiast</strong> | 🚀 <strong>Building the Future</strong></h3>
 
 <p align="center">
   <em>Turning data into magic ✨ | Web dev wizard 🧙‍♂️ | IoT explorer 🔮 | Forever debating mobile dev 📱</em>
@@ -11,33 +11,33 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammygbabs&label=Profile%20views&color=0e75b6&style=flat" alt="sammygbabs" /> </p>
 
-<p align="left">
-- 🌱 I'm currently learning **Jax**
-- 💬 Ask me about **AI and ML**
-- 📫 How to reach me **s.babalola@alustudent.com**
-- ⚡ Fun fact **I love Meat**
-</p>
+<ul align="left">
+<li>🌱 I'm currently learning <strong>Jax</strong></li>
+<li>💬 Ask me about <strong>AI and ML</strong></li>
+<li>📫 How to reach me <strong>s.babalola@alustudent.com</strong></li>
+<li>⚡ Fun fact <strong>I love Meat</strong></li>
+</ul>
 
 <h3 align="left">🔬 Research & Specialization</h3>
 <p align="left">
 I specialize in <strong>Machine Learning & Artificial Intelligence</strong>, with key research interests in:
 </p>
 
-<p align="left">
-- 🧠 **Deep Learning**
-- 👁️ **Computer Vision**
-- 🌍 **Geospatial ML**
-- 🎮 **Reinforcement Learning**
-- ⚖️ **AI Ethics and Fairness**
-- 🔗 **Internet of Things (IoT)**
-</p>
+<ul align="left">
+<li>🧠 <strong>Deep Learning</strong></li>
+<li>👁️ <strong>Computer Vision</strong></li>
+<li>🌍 <strong>Geospatial ML</strong></li>
+<li>🎮 <strong>Reinforcement Learning</strong></li>
+<li>⚖️ <strong>AI Ethics and Fairness</strong></li>
+<li>🔗 <strong>Internet of Things (IoT)</strong></li>
+</ul>
 
 <h3 align="left">🚀 Available for Opportunities</h3>
-<p align="left">
-- 🔬 **Actively seeking ML/AI Research Roles**
-- 👨‍🏫 **Open to Teaching Positions**
-- 📝 **Interested in Collaborations on Research Publications**
-</p>
+<ul align="left">
+<li>🔬 <strong>Actively seeking ML/AI Research Roles</strong></li>
+<li>👨‍🏫 <strong>Open to Teaching Positions</strong></li>
+<li>📝 <strong>Interested in Collaborations on Research Publications</strong></li>
+</ul>
 
 <h3 align="left">🛠️ Languages and Tools</h3>
 
@@ -110,13 +110,13 @@ I specialize in <strong>Machine Learning & Artificial Intelligence</strong>, wit
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sammygbabs" alt="sammygbabs" /></a> </p>
 
 <h3 align="left">🎯 Skills & Hobbies</h3>
-<p align="left">
-- 🥁 **Music**: Drums
-- ⚽ **Hobbies**: Playing football, watching K-drama
-- 🔢 **Mathematics Lover**: Passionate about pure mathematics for technological advancements and intellectual growth
-- 📚 **Teaching**: Dedicated to transferring knowledge and simplifying hard concepts so others can understand better
-- 🤔 **Philosophy Enthusiast**: Deeply interested in the field of philosophy, often reading philosophical books to broaden my perspective on life and ideas
-</p>
+<ul align="left">
+<li>🥁 <strong>Music</strong>: Drums</li>
+<li>⚽ <strong>Hobbies</strong>: Playing football, watching K-drama</li>
+<li>🔢 <strong>Mathematics Lover</strong>: Passionate about pure mathematics for technological advancements and intellectual growth</li>
+<li>📚 <strong>Teaching</strong>: Dedicated to transferring knowledge and simplifying hard concepts so others can understand better</li>
+<li>🤔 <strong>Philosophy Enthusiast</strong>: Deeply interested in the field of philosophy, often reading philosophical books to broaden my perspective on life and ideas</li>
+</ul>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
