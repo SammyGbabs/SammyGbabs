@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Samuel Babalola! You can call me SammyG</h1>
-<h3 align="center">🤖 <strong>AI/ML Researcher</strong> | 🇳🇬 <strong>Nigerian Tech Enthusiast</strong> | 🚀 <strong>Building the Future</strong></h3>
+<h3 align="center"><strong>AI/ML Researcher</strong> | <strong>Nigerian Tech Enthusiast</strong> | <strong>Building the Future</strong></h3>
 
 <p align="center">
-  <em>Turning data into magic ✨ | Web dev wizard 🧙‍♂️ | IoT explorer 🔮 | Forever debating mobile dev 📱</em>
+  <em>Turning data into magic | Web dev wizard | IoT explorer | Forever debating mobile dev</em>
 </p>
 
 <p align="center">
-  <strong>Passionate about bridging academia & real-world impact through code! 💻</strong>
+  <strong>Passionate about bridging academia & real-world impact through code!</strong>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammygbabs&label=Profile%20views&color=0e75b6&style=flat" alt="sammygbabs" /> </p>
@@ -24,19 +24,19 @@ I specialize in <strong>Machine Learning & Artificial Intelligence</strong>, wit
 </p>
 
 <ul align="left">
-<li>🧠 <strong>Deep Learning</strong></li>
-<li>👁️ <strong>Computer Vision</strong></li>
-<li>🌍 <strong>Geospatial ML</strong></li>
-<li>🎮 <strong>Reinforcement Learning</strong></li>
-<li>⚖️ <strong>AI Ethics and Fairness</strong></li>
-<li>🔗 <strong>Internet of Things (IoT)</strong></li>
+<li><strong>Deep Learning</strong></li>
+<li><strong>Computer Vision</strong></li>
+<li><strong>Geospatial ML</strong></li>
+<li><strong>Reinforcement Learning</strong></li>
+<li><strong>AI Ethics and Fairness</strong></li>
+<li><strong>Internet of Things (IoT)</strong></li>
 </ul>
 
 <h3 align="left">🚀 Available for Opportunities</h3>
 <ul align="left">
-<li>🔬 <strong>Actively seeking ML/AI Research Roles</strong></li>
-<li>👨‍🏫 <strong>Open to Teaching Positions</strong></li>
-<li>📝 <strong>Interested in Collaborations on Research Publications</strong></li>
+<li><strong>Actively seeking ML/AI Research Roles</strong></li>
+<li><strong>Open to Teaching Positions</strong></li>
+<li><strong>Interested in Collaborations on Research Publications</strong></li>
 </ul>
 
 <h3 align="left">🛠️ Languages and Tools</h3>
@@ -111,11 +111,11 @@ I specialize in <strong>Machine Learning & Artificial Intelligence</strong>, wit
 
 <h3 align="left">🎯 Skills & Hobbies</h3>
 <ul align="left">
-<li>🥁 <strong>Music</strong>: Drums</li>
-<li>⚽ <strong>Hobbies</strong>: Playing football, watching K-drama</li>
-<li>🔢 <strong>Mathematics Lover</strong>: Passionate about pure mathematics for technological advancements and intellectual growth</li>
-<li>📚 <strong>Teaching</strong>: Dedicated to transferring knowledge and simplifying hard concepts so others can understand better</li>
-<li>🤔 <strong>Philosophy Enthusiast</strong>: Deeply interested in the field of philosophy, often reading philosophical books to broaden my perspective on life and ideas</li>
+<li><strong>Music</strong>: Drums</li>
+<li><strong>Hobbies</strong>: Playing football, watching K-drama</li>
+<li><strong>Mathematics Lover</strong>: Passionate about pure mathematics for technological advancements and intellectual growth</li>
+<li><strong>Teaching</strong>: Dedicated to transferring knowledge and simplifying hard concepts so others can understand better</li>
+<li><strong>Philosophy Enthusiast</strong>: Deeply interested in the field of philosophy, often reading philosophical books to broaden my perspective on life and ideas</li>
 </ul>
 
 ### Blogs posts
